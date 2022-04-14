@@ -1,0 +1,26 @@
+{
+  "name": "do-app-platform-test",
+  "version": "1.0.0",
+  "description": "digitalocean app platform test for nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/padraigconnolly/do-app-platform-test.git"
+  },
+  "keywords": [
+    "digitalocean",
+    "appplatform"
+  ],
+  "author": "Padraig Connolly",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/padraigconnolly/do-app-platform-test/issues"
+  },
+  "homepage": "https://github.com/padraigconnolly/do-app-platform-test#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
